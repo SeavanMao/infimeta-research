@@ -1,0 +1,16 @@
+{
+  "name": "infimeta-research",
+  "version": "1.0.0",
+  "description": "Public-source research with source URLs: papers, programming Q&A and tech discussions. Queries recorded for research; no secrets.",
+  "author": {
+    "name": "Infimeta"
+  },
+  "homepage": "https://infimeta.cn/connect",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "search",
+    "papers",
+    "public-sources"
+  ]
+}
